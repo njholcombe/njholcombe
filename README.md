@@ -1,6 +1,7 @@
 ## Howdy
 
-- 🔭 Repository Details::
+- 🔭 Repository Details:
+- public_architecture repository: A centralized repository for architectural documentation, diagrams, and conceptual overviews that explain the structure and design of projects maintained in my private repositories.
 -  PythonProjects_priv repository: Holds all PyOpAnalytics application code.
 -  lakehouse repository (private): AWS datalake house framework. Utilizes lambda (python) and dynamodb as the control plane allowing for quick additions of batch and kinesis streaming jobs.
 -  aws-celltower-pipeline repository (private): resuable monthly batch job for the datalake (EventBridge, Step Functions, Lambda, S3, Athena, Glue Job (Gold), SageMaker consumes gold data, learns patterns, and produces ML artifacts related to outliers, coverage modeling, and tower stability over time)
